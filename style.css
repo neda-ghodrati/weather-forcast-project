@@ -69,5 +69,7 @@ transition: all 2ms ease-in-out;
 #code-link{
   display: block;
   text-align: center;
-  font-size: 6px;
+  font-size: 15px;
+  margin-top: 2px;
+  
 }
