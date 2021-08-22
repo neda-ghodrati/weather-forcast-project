@@ -66,3 +66,6 @@ transition: all 2ms ease-in-out;
 #current:hover{
   background:rgb(25, 102, 25) ;
 }
+#code-link{
+  text-align: center;
+}
