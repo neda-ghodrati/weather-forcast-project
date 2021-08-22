@@ -69,4 +69,5 @@ transition: all 2ms ease-in-out;
 #code-link{
   display: block;
   text-align: center;
+  size: 6px;
 }
