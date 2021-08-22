@@ -67,5 +67,6 @@ transition: all 2ms ease-in-out;
   background:rgb(25, 102, 25) ;
 }
 #code-link{
+  display: block;
   text-align: center;
 }
